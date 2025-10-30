@@ -1,4 +1,2 @@
 streamlit
-reportlab
 fpdf
-Pillow
